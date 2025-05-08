@@ -36,8 +36,8 @@ Der Barbetreiber möchte seine Produkte außer der Bar verkaufen, um seine Reich
 
 [cols="1,3"]
 |===
-| Für | [Zielkunde / Persona]
-| der / die | [Angabe des Bedarfs oder Chance]
+| Für | Kunden
+| der / die | Cocktails für private Feiern oder Anlässe bestellen
 | ist das  | [Produktname]
 | eine  | [Produktkategorie]
 | der / die | [Aussage zum Hauptvorteil / Alleinstellungsmerkmal]
@@ -66,9 +66,13 @@ Der Barbetreiber möchte seine Produkte außer der Bar verkaufen, um seine Reich
 |===
 | Name | Beschreibung | Verantwortlichkeiten
 
-| [Benennung des Stakeholders (als Rolle)]
-| [Kurze Beschreibung des Stakeholders und seiner Ziele]
-| [Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+| Besteller | Der Besteller ist die Zielgruppe des Systems, der Cocktails für private Feiern oder Anlässe bestellt. | Der Besteller bestellt Cocktails. Er gibt die Anzahl der Cocktails und die Zutaten an und kann den Cocktail auch bewerten.
+| Barbetreiber | Der Barbetreiber ist der Hersteller der Cocktails und Auftraggeber des geplanten Webshops. | Der Barbetreiber stellt die Cocktails her und gibt die Anforderungen für den Webshop vor.
+| Lieferantsdienst| Der Lieferdienst ist der Dienstleister, der die Cocktails an den Kunden ausliefert. | Der Lieferdienst sichert die Auslieferung rechtzeitig an den Kunden zu.
+| Webshop-Betreiber | Der Webshop-Betreiber ist Entwickler des Webshops.| Der Webshop-Betreiber stellt den Webshop zur Verfügung und sorgt für die Wartung und Pflege des Systems.
+| Gesetzgeber | Der Gesetzgeber ist der rechtliche Rahmen, in dem das System betrieben wird. | Der Gesetzgeber gibt die rechtlichen Rahmenbedingungen vor, die der Webshop-Betreiber einhalten muss.
+|Mitarbeiter| Der Mitarbeiter ist derjenige, der die Cocktails zubereitet | Der Mitarbeiter bereitet die Cocktails zu und verpackt sie für den Versand. Er ist auch für die Qualitätssicherung der Cocktails verantwortlich.
+|Zahlungsdienstleister| Der Zahlungsdienstleister ist der Dienstleister, der die Zahlungen für den Webshop abwickelt. | Der Zahlungsdienstleister sorgt dafür, dass die Zahlungen sicher und zuverlässig abgewickelt werden.
 |===
 
 Die Verfeinerung der Stakeholder, die das System benutzen, wird im UX-Konzept mittels Personas vorgenommen.

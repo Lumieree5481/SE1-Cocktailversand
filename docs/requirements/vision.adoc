@@ -30,6 +30,8 @@ Siehe <<#glossary, Glossar>>.
 
 === Produktvision
 //Eine Produktvision beschreibt das Einsatzziel der Anwendung und sorgt für ein gemeinsames Ziel und Verständnis für alle Beteiligten im Projekt. Geben Sie in knapper Form übersichtsartig die Positionierung der angestrebten Lösung im Vergleich zu verfügbaren Alternativen dar. Das folgende Format kann dazu verwendet werden:
+Der Barbetreiber möchte seine Produkte außer der Bar verkaufen, um seine Reichweite zu erweitern. Er möchte eine Online Möglichkeit anbieten anders als anderen kann man seine Cocktails mixen und liefern lassen. 
+
 
 
 [cols="1,3"]
